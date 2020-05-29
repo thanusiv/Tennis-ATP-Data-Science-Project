@@ -24,9 +24,9 @@ for combo in all_combos:
     features = tennis_data[combo]
     target = tennis_data[service_game_target_column]
 
-    train_features, test_features, train_target, test_target = train_test_split(features, target, train_size = 0.8)
+    train_features, test_features, train_target, test_target = train_test_split(features, target, train_size = 0.7)
 
-    scalar = StandardScaler()
+    scalar = MinMaxScaler()
     train_features = scalar.fit_transform(train_features)
     test_features = scalar.transform(test_features)
 
