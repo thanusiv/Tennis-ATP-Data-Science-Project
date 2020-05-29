@@ -36,3 +36,10 @@ ax.set_ylabel('Number of Wins')
 plt.scatter(tennis_data['DoubleFaults'], tennis_data['Wins'])
 
 plt.show()
+plt.close('all')
+
+plt.scatter(tennis_data['BreakPointsOpportunities'], tennis_data['Winnings'])
+plt.title('Break Point Opportunities vs Winngs in a Year')
+plt.xlabel('Break Point Opportunities')
+plt.ylabel('Winnings')
+plt.show()

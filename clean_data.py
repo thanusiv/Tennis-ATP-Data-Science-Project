@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Almost all data is already cleaned where each variable is a separate column and each observation is a separate row
 
-tennis_data = pd.read_csv(r'C:\Users\thanu\OneDrive\Documents\DataScienceProjects\TennisATPDataProject\tennis_stats.csv')
+tennis_data = pd.read_csv(r'C:\Users\thanu\OneDrive\Documents\DataScienceProjects\TennisATPDataProject\tennis_stats.csv') # replace this with where you placed the csv file
 #print(tennis_data.head())
 #print(tennis_data.info())
 #print(tennis_data.describe())
