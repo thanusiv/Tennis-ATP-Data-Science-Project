@@ -12,5 +12,8 @@ tennis_data = pd.read_csv(r'C:\Users\thanu\OneDrive\Documents\DataScienceProject
 duplicates = tennis_data[tennis_data.duplicated()]  # 2 duplicate rows
 #print(duplicates)
 tennis_data.drop_duplicates(inplace = True)
-
+ 
 #print(tennis_data.isnull().sum()) # no null values in any column
+
+#number_one_ranks = tennis_data.sort_values('Ranking')
+#print(number_one_ranks.head(20))
