@@ -4,6 +4,10 @@
 
 - [Overview](#Overview)
 - [Explanation of Dataset](#explanation-of-dataset)
+  - [Identifying Data](#identifying-data)
+  - [Service Game Statistics](#service-game-statistics)
+  - [Identifying Data](#return-game-statistics)
+  - [Service Game Statistics](#outcome-statistics)
 - [Files](#Files)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
