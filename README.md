@@ -1,5 +1,13 @@
 # Tennis-ATP-Data-Project
 
+## Table of Contents
+
+- [Overview](#Overview)
+- [Explanation of Dataset](#explanation-of-dataset)
+- [Files](#Files)
+- [Technologies Used](#technologies-used)
+- [Acknowledgements](#acknowledgements)
+
 ## Overview
 
 This project uses the tennis player dataset provided by the Association of Tennis Professionals (ATP) to predict specific game statistics of a player based on their career's statistics from previous years. In this project, I used linear and multiple linear regression to predict the number of return and service games won by a player based on their respective service and return game statistics. I also used a Random Forest to try to predict a specific player based on all their statistics from a particular year and showcase why it did not work the way it was intended.
