@@ -70,10 +70,10 @@ The `random_forest.py` was an attempt to predict a specific player based off the
 
 ## Technologies Used
 
-- [Python](https://www.python.org/) : Programming language used
-- [Pandas](https://pandas.pydata.org/) : Data analysis and manipulation library
-- [Matplotlib](https://matplotlib.org/) : Plotting/graphing library
-- [Scikit-learn](https://scikit-learn.org/stable/) : Machine learning library
+- [Python](https://www.python.org/) - Programming language used
+- [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation library
+- [Matplotlib](https://matplotlib.org/) - Plotting/graphing library
+- [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library
 
 ## Acknowledgements
 
