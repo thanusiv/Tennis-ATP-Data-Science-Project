@@ -70,6 +70,7 @@ The `random_forest.py` was an attempt to predict a specific player based off the
 
 ## Technologies Used
 
+- [Visual Studio Code](https://code.visualstudio.com/) - IDE used
 - [Python](https://www.python.org/) - Programming language used
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation library
 - [Matplotlib](https://matplotlib.org/) - Plotting/graphing library
