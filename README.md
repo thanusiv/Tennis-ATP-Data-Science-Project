@@ -14,7 +14,7 @@
 
 ## Overview
 
-This project uses the tennis player dataset provided by the Association of Tennis Professionals (ATP) to predict specific game statistics of a player based on their career's statistics from previous years. In this project, I used linear and multiple linear regression to predict the number of return and service games won by a player based on their respective service and return game statistics. I also used a Random Forest to try to predict a specific player based on all their statistics from a particular year and showcase why it did not work the way it was intended.
+This project uses the tennis player dataset provided by the Association of Tennis Professionals (ATP) to predict specific game statistics of a player based on their career's statistics from previous years. In this project, I used linear and multiple linear regression to predict the number of return and service games won by a player based on their respective service and return game statistics. I also used a Random Forest to try to predict a specific player based on all their statistics from a particular year and showcase why it did not work the way it was intended. Use the `requirements.txt` file to download all dependencies.
 
 ## Explanation of Dataset
 
@@ -71,7 +71,7 @@ The `random_forest.py` was an attempt to predict a specific player based off the
 ## Technologies Used
 
 - [Visual Studio Code](https://code.visualstudio.com/) - IDE used
-- [Python](https://www.python.org/) - Programming language used
+- [Python 3.8.3](https://www.python.org/) - Programming language used
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation library
 - [Matplotlib](https://matplotlib.org/) - Plotting/graphing library
 - [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library
